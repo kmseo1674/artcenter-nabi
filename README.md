@@ -166,6 +166,10 @@ const nsTl = gsap.timeline({
         trigger: ".news",
         start: "top center",
         end: "bottom 100%"
+
+
+
+
     }
 });
 
@@ -179,4 +183,7 @@ newslist.forEach(function(item, i) {
 ```
 
 ---
+
+
+
 
